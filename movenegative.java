@@ -13,7 +13,7 @@ public class movenegative{
         }
     }
 }
-
+//another approach
 import java.util.*;
  class movenegative{
     static void rearrange(int arr[],int n){
